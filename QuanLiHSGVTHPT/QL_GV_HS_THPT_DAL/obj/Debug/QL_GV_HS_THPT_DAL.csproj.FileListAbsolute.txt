@@ -1,0 +1,5 @@
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.dll
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb

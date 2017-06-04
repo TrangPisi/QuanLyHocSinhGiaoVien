@@ -1,0 +1,4 @@
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_FORM.dll
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_FORM.pdb
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.dll
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.pdb

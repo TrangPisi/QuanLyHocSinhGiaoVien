@@ -1,0 +1,9 @@
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\bin\Debug\QLHSGVTHPT.exe.config
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\bin\Debug\QLHSGVTHPT.exe
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\bin\Debug\QLHSGVTHPT.pdb
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.csprojResolveAssemblyReference.cache
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.Form1.resources
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.Properties.Resources.resources
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.csproj.GenerateResource.Cache
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.exe
+c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.pdb
