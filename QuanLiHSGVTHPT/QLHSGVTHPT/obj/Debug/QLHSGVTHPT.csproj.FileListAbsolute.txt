@@ -7,3 +7,6 @@ c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLH
 c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.csproj.GenerateResource.Cache
 c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.exe
 c:\users\maitr\onedrive\documents\visual studio 2015\Projects\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.pdb
+C:\Users\maitr\Desktop\QLHSGV\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\bin\Debug\QLHSGVTHPT.exe.config
+C:\Users\maitr\Desktop\QLHSGV\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.exe
+C:\Users\maitr\Desktop\QLHSGV\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.pdb
