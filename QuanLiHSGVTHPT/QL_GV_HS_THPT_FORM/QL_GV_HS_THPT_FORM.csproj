@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{650C3905-253B-4D13-8A14-DA5825367460}</ProjectGuid>
+    <ProjectGuid>{1B089691-5A40-4B70-BF80-201E9EF9BD06}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>QL_GV_HS_THPT_FORM</RootNamespace>

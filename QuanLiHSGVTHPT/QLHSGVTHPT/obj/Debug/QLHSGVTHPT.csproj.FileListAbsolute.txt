@@ -16,3 +16,9 @@ C:\Users\maitr\Desktop\QLHSGV\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\bi
 C:\Users\maitr\Desktop\QLHSGV\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.exe
 C:\Users\maitr\Desktop\QLHSGV\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.pdb
 >>>>>>> f844fe5ee56addaff3632f4db068d92ba0f6b57e
+D:\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\bin\Debug\QLHSGVTHPT.exe
+D:\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\bin\Debug\QLHSGVTHPT.pdb
+D:\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.csprojResolveAssemblyReference.cache
+D:\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.Form1.resources
+D:\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.Properties.Resources.resources
+D:\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVien\QuanLiHSGVTHPT\QLHSGVTHPT\obj\Debug\QLHSGVTHPT.csproj.GenerateResource.Cache
